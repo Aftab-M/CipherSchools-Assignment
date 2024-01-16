@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "862288269596",
+    "firebase_url": "https://hortel-e5883-default-rtdb.firebaseio.com",
+    "project_id": "hortel-e5883",
+    "storage_bucket": "hortel-e5883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862288269596:android:f16d379c40e5ef9788aad9",
+        "android_client_info": {
+          "package_name": "com.example.cipher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862288269596-pm1ppnq72mv7e4pu3r1pcafu2284da7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3up_hGbU5JA5-2jdI5WM3_MO8Gv5_dbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862288269596-f188vtucdtcujd2holptnfn6odlkblfp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862288269596-d92i5gcaaa0c1vabg25okdq1s852m0al.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parkPlease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862288269596:android:53a50ddebbdadb2488aad9",
+        "android_client_info": {
+          "package_name": "com.example.park_please"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862288269596-pm1ppnq72mv7e4pu3r1pcafu2284da7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3up_hGbU5JA5-2jdI5WM3_MO8Gv5_dbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862288269596-f188vtucdtcujd2holptnfn6odlkblfp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862288269596-d92i5gcaaa0c1vabg25okdq1s852m0al.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parkPlease"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862288269596:android:64b653d7ac9cf44688aad9",
+        "android_client_info": {
+          "package_name": "com.example.winjit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862288269596-pm1ppnq72mv7e4pu3r1pcafu2284da7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3up_hGbU5JA5-2jdI5WM3_MO8Gv5_dbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862288269596-f188vtucdtcujd2holptnfn6odlkblfp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862288269596-d92i5gcaaa0c1vabg25okdq1s852m0al.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parkPlease"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
